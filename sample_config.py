@@ -1,6 +1,6 @@
 # Change all Values Here Before you use.....
 
-bot_token = 1905204525AAGRVnvUx8piOwJ_8_pOFLUK7gWK7DEhQ8A
+bot_token = 1905204525:AAGRVnvUx8piOwJ_8_pOFLUK7gWK7DEhQ8A
 sudo_chat_id = -1827688640
 
 ARQ_API_KEY = GKEKEP-XAUYLY-YASWEH-ZKDHEC-ARQ # Get it from @ARQRobot. Needed for Saavn and Deezer.
